@@ -1,0 +1,11 @@
+#companion {
+    width: 70px;
+    height: 70px;
+    background: url(eineck.svg) rgba(30, 30, 30, .2);
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    pointer-events: none;
+}
